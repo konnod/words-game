@@ -17,8 +17,8 @@ class Player(abc.ABC):
         pass
 
     """
-    Notifies player about work from other player
-    Returns True if player accepts other player word and False if refuses
+    Notifies player about word from other player
+    Must return True if player accepts other player word and False if refuses
     """
     @abc.abstractmethod
     def notify_word(self, word: str) -> bool:
