@@ -10,10 +10,17 @@ class Player(abc.ABC):
         pass
 
     """
+    Is called when word returned from @request_word is invalid
+    """
+    @abc.abstractmethod
+    def word_error(self, err: str):
+        pass
+
+    """
     Is called when game refuses players word
     """
     @abc.abstractmethod
-    def refuse_word(self):
+    def word_refused(self):
         pass
 
     """

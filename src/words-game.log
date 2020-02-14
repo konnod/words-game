@@ -1,0 +1,86 @@
+14-Feb-20 15:16:14 - 
+
+
+14-Feb-20 15:16:14 - *****************************************
+14-Feb-20 15:16:14 - Creating game
+14-Feb-20 15:16:14 - Creating game vs bot
+14-Feb-20 15:16:14 - Successfully read last game
+14-Feb-20 15:16:14 - Successfully opened dictionary file!
+14-Feb-20 15:16:14 - Setting current player to Console player
+14-Feb-20 15:16:14 - Game init successful. Starting game
+14-Feb-20 15:16:14 - Requesting Console player word starting on letter 
+14-Feb-20 15:16:23 - 
+
+
+14-Feb-20 15:16:23 - *****************************************
+14-Feb-20 15:16:23 - Creating game
+14-Feb-20 15:16:23 - Creating game vs bot
+14-Feb-20 15:16:23 - Successfully read last game
+14-Feb-20 15:16:23 - Successfully opened dictionary file!
+14-Feb-20 15:16:23 - Setting current player to Console player
+14-Feb-20 15:16:23 - Game init successful. Starting game
+14-Feb-20 15:16:23 - Requesting Console player word starting on letter 
+14-Feb-20 15:17:22 - 
+
+
+14-Feb-20 15:17:22 - *****************************************
+14-Feb-20 15:17:22 - Creating game
+14-Feb-20 15:17:22 - Creating game vs bot
+14-Feb-20 15:17:22 - Successfully read last game
+14-Feb-20 15:17:22 - Words already used: 0
+14-Feb-20 15:17:22 - Successfully opened dictionary file!
+14-Feb-20 15:17:22 - Setting current player to Console player
+14-Feb-20 15:17:22 - Game init successful. Starting game
+14-Feb-20 15:17:22 - Requesting Console player word starting on letter 
+14-Feb-20 15:17:44 - 
+
+
+14-Feb-20 15:17:44 - *****************************************
+14-Feb-20 15:17:44 - Creating game
+14-Feb-20 15:17:44 - Creating game vs bot
+14-Feb-20 15:17:44 - Successfully read last game
+14-Feb-20 15:17:44 - Words already used: 0
+14-Feb-20 15:17:44 - Successfully opened dictionary file!
+14-Feb-20 15:17:44 - Dictionary contains 25419 words in use
+14-Feb-20 15:17:44 - Setting current player to Console player
+14-Feb-20 15:17:44 - Game init successful. Starting game
+14-Feb-20 15:17:44 - Requesting Console player word starting on letter 
+14-Feb-20 15:18:11 - 
+
+
+14-Feb-20 15:18:11 - *****************************************
+14-Feb-20 15:18:11 - Creating game
+14-Feb-20 15:18:11 - Creating game vs bot
+14-Feb-20 15:18:11 - Successfully read last game
+14-Feb-20 15:18:11 - Words already used: 0
+14-Feb-20 15:18:11 - Last letter is 
+14-Feb-20 15:18:11 - Successfully opened dictionary file!
+14-Feb-20 15:18:11 - Dictionary contains 25419 words in use
+14-Feb-20 15:18:11 - Setting current player to Console player
+14-Feb-20 15:18:11 - Game init successful. Starting game
+14-Feb-20 15:18:11 - Requesting Console player word starting on letter 
+14-Feb-20 15:18:27 - Console player returned word "hint"
+14-Feb-20 15:18:27 - Word hint is removed from dictionary
+14-Feb-20 15:18:27 - Saving word "hint"to save file
+14-Feb-20 15:18:27 - Bot accepted word hint
+14-Feb-20 15:18:27 - End of the turn. Switching current player
+14-Feb-20 15:18:27 - Current player is now Bot
+14-Feb-20 15:18:27 - Requesting Bot word starting on letter t
+14-Feb-20 15:18:27 - Word terminus is fetched from dictionary
+14-Feb-20 15:18:27 - Bot returned word "terminus"
+14-Feb-20 15:18:27 - Word terminus is removed from dictionary
+14-Feb-20 15:18:27 - Saving word "terminus"to save file
+14-Feb-20 15:19:46 - 
+
+
+14-Feb-20 15:19:46 - *****************************************
+14-Feb-20 15:19:46 - Creating game
+14-Feb-20 15:19:46 - Creating game vs bot
+14-Feb-20 15:19:46 - Successfully read last game
+14-Feb-20 15:19:46 - Words already used: 2
+14-Feb-20 15:19:46 - Last letter is s
+14-Feb-20 15:19:46 - Successfully opened dictionary file!
+14-Feb-20 15:19:46 - Dictionary contains 25417 words in use
+14-Feb-20 15:19:46 - Setting current player to "Console player"
+14-Feb-20 15:19:46 - Game init successful. Starting game
+14-Feb-20 15:19:46 - Requesting Console player word starting on letter 's'

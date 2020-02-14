@@ -1,0 +1,5 @@
+Add state serialization like word:player
+Add current player saving and restoring
+Add game over condition or loser detection :)
+Provide user ability to start a new game
+Provide user more interactive abilities - end game, etc
